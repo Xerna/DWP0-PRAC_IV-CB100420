@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DWP0-PRAC_IV-CB100420.props" />
+</Project>

@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ricardo\\source\\repos\\DWP0-PRAC_IV-CB100420\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAC6E24-FEEA-4590-ACEB-810F2DA58985}|DWP0-PRAC_IV-CB100420.csproj|c:\\users\\ricardo\\source\\repos\\dwp0-prac_iv-cb100420\\views\\home\\empleado_detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBAC6E24-FEEA-4590-ACEB-810F2DA58985}|DWP0-PRAC_IV-CB100420.csproj|solutionrelative:views\\home\\empleado_detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAC6E24-FEEA-4590-ACEB-810F2DA58985}|DWP0-PRAC_IV-CB100420.csproj|c:\\users\\ricardo\\source\\repos\\dwp0-prac_iv-cb100420\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAC6E24-FEEA-4590-ACEB-810F2DA58985}|DWP0-PRAC_IV-CB100420.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAC6E24-FEEA-4590-ACEB-810F2DA58985}|DWP0-PRAC_IV-CB100420.csproj|c:\\users\\ricardo\\source\\repos\\dwp0-prac_iv-cb100420\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAC6E24-FEEA-4590-ACEB-810F2DA58985}|DWP0-PRAC_IV-CB100420.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAC6E24-FEEA-4590-ACEB-810F2DA58985}|DWP0-PRAC_IV-CB100420.csproj|c:\\users\\ricardo\\source\\repos\\dwp0-prac_iv-cb100420\\models\\dbcrudcorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAC6E24-FEEA-4590-ACEB-810F2DA58985}|DWP0-PRAC_IV-CB100420.csproj|solutionrelative:models\\dbcrudcorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAC6E24-FEEA-4590-ACEB-810F2DA58985}|DWP0-PRAC_IV-CB100420.csproj|c:\\users\\ricardo\\source\\repos\\dwp0-prac_iv-cb100420\\models\\viewmodels\\empleadovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAC6E24-FEEA-4590-ACEB-810F2DA58985}|DWP0-PRAC_IV-CB100420.csproj|solutionrelative:models\\viewmodels\\empleadovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAC6E24-FEEA-4590-ACEB-810F2DA58985}|DWP0-PRAC_IV-CB100420.csproj|c:\\users\\ricardo\\source\\repos\\dwp0-prac_iv-cb100420\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAC6E24-FEEA-4590-ACEB-810F2DA58985}|DWP0-PRAC_IV-CB100420.csproj|solutionrelative:models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAC6E24-FEEA-4590-ACEB-810F2DA58985}|DWP0-PRAC_IV-CB100420.csproj|c:\\users\\ricardo\\source\\repos\\dwp0-prac_iv-cb100420\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FBAC6E24-FEEA-4590-ACEB-810F2DA58985}|DWP0-PRAC_IV-CB100420.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAC6E24-FEEA-4590-ACEB-810F2DA58985}|DWP0-PRAC_IV-CB100420.csproj|c:\\users\\ricardo\\source\\repos\\dwp0-prac_iv-cb100420\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FBAC6E24-FEEA-4590-ACEB-810F2DA58985}|DWP0-PRAC_IV-CB100420.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBAC6E24-FEEA-4590-ACEB-810F2DA58985}|DWP0-PRAC_IV-CB100420.csproj|c:\\users\\ricardo\\source\\repos\\dwp0-prac_iv-cb100420\\models\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBAC6E24-FEEA-4590-ACEB-810F2DA58985}|DWP0-PRAC_IV-CB100420.csproj|solutionrelative:models\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empleado_Detalle.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ricardo\\source\\repos\\DWP0-PRAC_IV-CB100420\\Views\\Home\\Empleado_Detalle.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Empleado_Detalle.cshtml",
+              "ToolTip": "C:\\Users\\Ricardo\\source\\repos\\DWP0-PRAC_IV-CB100420\\Views\\Home\\Empleado_Detalle.cshtml",
+              "RelativeToolTip": "Views\\Home\\Empleado_Detalle.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T22:13:15.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ricardo\\source\\repos\\DWP0-PRAC_IV-CB100420\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ricardo\\source\\repos\\DWP0-PRAC_IV-CB100420\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T21:45:44.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Ricardo\\source\\repos\\DWP0-PRAC_IV-CB100420\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Ricardo\\source\\repos\\DWP0-PRAC_IV-CB100420\\Models\\Empleado.cs",
+              "RelativeToolTip": "Models\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:43:12.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cargo.cs",
+              "DocumentMoniker": "C:\\Users\\Ricardo\\source\\repos\\DWP0-PRAC_IV-CB100420\\Models\\Cargo.cs",
+              "RelativeDocumentMoniker": "Models\\Cargo.cs",
+              "ToolTip": "C:\\Users\\Ricardo\\source\\repos\\DWP0-PRAC_IV-CB100420\\Models\\Cargo.cs",
+              "RelativeToolTip": "Models\\Cargo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:43:03.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbcrudcoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ricardo\\source\\repos\\DWP0-PRAC_IV-CB100420\\Models\\DbcrudcoreContext.cs",
+              "RelativeDocumentMoniker": "Models\\DbcrudcoreContext.cs",
+              "ToolTip": "C:\\Users\\Ricardo\\source\\repos\\DWP0-PRAC_IV-CB100420\\Models\\DbcrudcoreContext.cs",
+              "RelativeToolTip": "Models\\DbcrudcoreContext.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAawBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:40:38.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ricardo\\source\\repos\\DWP0-PRAC_IV-CB100420\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ricardo\\source\\repos\\DWP0-PRAC_IV-CB100420\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:37:55.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ricardo\\source\\repos\\DWP0-PRAC_IV-CB100420\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ricardo\\source\\repos\\DWP0-PRAC_IV-CB100420\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowC8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:38:00.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpleadoVM.cs",
+              "DocumentMoniker": "C:\\Users\\Ricardo\\source\\repos\\DWP0-PRAC_IV-CB100420\\Models\\ViewModels\\EmpleadoVM.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\EmpleadoVM.cs",
+              "ToolTip": "C:\\Users\\Ricardo\\source\\repos\\DWP0-PRAC_IV-CB100420\\Models\\ViewModels\\EmpleadoVM.cs",
+              "RelativeToolTip": "Models\\ViewModels\\EmpleadoVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:52:29.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ricardo\\source\\repos\\DWP0-PRAC_IV-CB100420\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Ricardo\\source\\repos\\DWP0-PRAC_IV-CB100420\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-27T21:37:37.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
